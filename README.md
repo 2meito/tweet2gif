@@ -7,8 +7,11 @@
   python3 tweet2gif.py [OPTION] URL...
 ```
 
-## Prequisites
+## Prerequisites
 
 - [python3](https://www.python.org/downloads/) must be installed.
-- [gifski](https://gif.ski/) must be installed.
+
+
+## Thanks
+- [gifski](https://github.com/ImageOptim/gifski)
 
