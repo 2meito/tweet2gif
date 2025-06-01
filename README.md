@@ -3,8 +3,8 @@
 ## Usage
 
 ```shell
-  python3 -m pip install -r requirements.txt
-  python3 tweet2gif.py [OPTION] URL...
+python3 -m pip install -r requirements.txt
+python3 tweet2gif.py [OPTIONS] URLS...
 ```
 
 ## Prerequisites
@@ -14,4 +14,5 @@
 
 ## Thanks
 - [gifski](https://github.com/ImageOptim/gifski)
-
+- [gallery-dl](https://github.com/mikf/gallery-dl)
+- [PyAV](https://github.com/PyAV-Org/PyAV) — python bindings for [ffmpeg](https://github.com/FFmpeg/FFmpeg) 
