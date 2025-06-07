@@ -7,10 +7,17 @@ python3 -m pip install -r requirements.txt
 python3 tweet2gif.py [OPTIONS] URLS...
 ```
 
+## Building
+
+```shell
+python3 -m pip install -r requirements.txt
+python3 -m pip install pyinstaller
+pyinstaller <.spec FILE> 
+```
+
 ## Prerequisites
 
 - [python3](https://www.python.org/downloads/) must be installed.
-
 
 ## Thanks
 - [gifski](https://github.com/ImageOptim/gifski)
